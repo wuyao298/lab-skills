@@ -1,0 +1,35 @@
+profile:
+  id: "pulse_dominated_20260821_v1.0"
+  created: "2026-08-21"
+  morphology: "pulse_dominated"
+  dense_ratio: 0.03
+
+decision:
+  n_points: 100000000
+  target_n_out: 100000
+  estimated_n_out: 110000
+  chunk_size: 5000000
+  overlap_ratio: 0.10
+  pulse_threshold: 3.0
+  regions:
+    - start: 0
+      end: 99999999
+      weight: 2
+      strategy: "minmax"
+      algorithm: "m4"
+      n_out: 100000
+      label: "background"
+  algorithms:
+    - "m4"
+    - "lossless"
+
+validation:
+  peak_deviation: 0.003
+  slope_deviation: 0.012
+  envelope_iou: 0.996
+  compression_ratio: 0.0011
+  passed: true
+  confirmed: true
+
+status: "approved"
+user_feedback: true
