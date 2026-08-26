@@ -9,6 +9,7 @@ A collection of agent skills for scientific / lab research workflows. Each skill
 | Skill | Domain | One-liner |
 |---|---|---|
 | [matplot-publisher](skills/matplot-publisher/) | Scientific plotting | Turn `.mat` oscilloscope waveforms (up to ~100M points) into publication-grade PDF + 600 DPI PNG, with a 6-layer pipeline (perceive → interpret → decide → validate → execute → crystallize) and mandatory preview confirmation. |
+| [adhd-brain-dump](skills/adhd-brain-dump/) | ADHD task management | Non-judgmental 3-stage pipeline for ADHD brains: brain-dump triage (「倾倒：」) → big-task splitting into milestones & micro-steps with interactive context gathering (「拆分：」) → auto-sync tasks, subtasks, notes and due dates to Microsoft To Do via `microsoft-todo-cli`. |
 
 More skills will land here as they mature.
 
