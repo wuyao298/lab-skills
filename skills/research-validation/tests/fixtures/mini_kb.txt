@@ -1,0 +1,13 @@
+# 段9 XE 知识库（obj1）
+
+> 只含 9.6 复现筛选后的高文献；9.7 只读本文件。
+
+=== XE001 [RE257] ===
+标题：Capacitance loss and ESR evolution of metallized film capacitors under repetitive pulses
+EID：2-s2.0-85000000001
+DOI：10.1109/example.2024.0001
+年份：2024 ｜ 期刊：IEEE Transactions on Dielectrics and Electrical Insulation
+摘要：A detailed protocol for measuring capacitance and ESR every 1000 shots is provided. The ESR doubles when capacitance drops 2%.
+来源 ACU：ACU-001
+可复现的关键步骤与参数：每 1000 发测一次 C/ESR，ESR 翻倍阈值
+可直接整合至我方案的具体步骤：停机测量协议可整合为路径 A 步骤 1

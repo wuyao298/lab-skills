@@ -1,0 +1,6 @@
+编号,来源库,标题,作者（IEEE）,来源名称,文献类型,是否综述,卷,期,页码,出版年,出版月,DOI,ISSN,出版社,会议名,摘要,作者关键词,被引次数,EID,原文链接
+[RE001],Scopus,Global Paper One,Adams A.,Nature,Article,否,1,1,1-10,2024,Jan.,10.1000/one,1234-5678,,,Abstract of global paper one,capacitor,5,eid-global-1,https://example.com/1
+[RE002],Scopus,Global Paper Two,Brown K.,Science,Review,是,2,2,11-20,2023,Feb.,10.1000/two,2345-6789,,,Abstract of global paper two,film,10,eid-global-2,https://example.com/2
+[RE003],Scopus,Global Paper Three,Chen W.,IEEE TDEI,Article,否,3,3,21-30,2022,Mar.,10.1000/three,3456-7890,,,Abstract of global paper three,self-healing,15,eid-global-3,https://example.com/3
+[RE004],Scopus,Global Paper Four,Diaz E.,JPD,Article,否,4,4,31-40,2021,Apr.,10.1000/four,4567-8901,,,Abstract of global paper four,pulse,20,eid-global-4,https://example.com/4
+[RE005],Scopus,Global Paper Five,Evans F.,TPS,Conference Paper,否,5,5,41-50,2020,May,10.1000/five,5678-9012,,,Abstract of global paper five,lifetime,25,eid-global-5,https://example.com/5

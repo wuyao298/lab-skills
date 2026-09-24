@@ -1,0 +1,19 @@
+interface:
+  display_name: 方案前置深化
+  short_description: 方案前置深化
+  default_prompt: Use $research-scheme-deepening for the task described by the user.
+compatibility:
+  canonical_format: agent-skills
+  adapter_targets:
+  - generic
+  activation:
+    mode: model
+  execution:
+    context: inline
+    shell: powershell
+  trust:
+    source_tier: local
+    remote_inline_execution: forbid
+    remote_metadata_policy: allow-metadata-only
+  degradation:
+    generic: neutral-source

@@ -1,0 +1,4 @@
+编号,来源库,标题,作者（IEEE）,来源名称,文献类型,是否综述,卷,期,页码,出版年,出版月,DOI,ISSN,出版社,会议名,摘要,作者关键词,被引次数,EID,原文链接
+[RE001],Scopus,Self-healing mechanism under high repetition rate pulses,Zhang,IEEE TDEI,ar,否,1,1,1-10,2026,Jan,10.1,123,IEEE,,"We study self-healing under repetitive pulses in metallized film capacitors.",self-healing,10,1s1,http://x
+[RE002],Scopus,DC-link capacitor aging and lifetime prediction,Wang,IEEE TPS,ar,否,2,1,11-20,2025,Mar,10.2,456,IEEE,,"Accelerated aging tests of film capacitors under DC-link ripple.",aging,20,2s2,http://y
+[RE003],Scopus,Review of metallized film capacitor failure modes,Li,IEEE TDEI,re,是,3,1,21-30,2024,May,10.3,789,IEEE,,"A review covering self-healing, electrode failure and lifetime models.",review,30,3s3,http://z

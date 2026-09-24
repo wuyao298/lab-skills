@@ -1,0 +1,18 @@
+interface:
+  display_name: 完整验证
+  short_description: 完整验证
+  default_prompt: Use $research-validation for the task described by the user.
+compatibility:
+  canonical_format: agent-skills
+  adapter_targets:
+  - generic
+  activation:
+    mode: model
+  execution:
+    context: inline
+  trust:
+    source_tier: local
+    remote_inline_execution: forbid
+    remote_metadata_policy: allow-metadata-only
+  degradation:
+    generic: neutral-source

@@ -1,0 +1,53 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "3",
+    "entry": [
+      {
+        "eid": "eid-new-3",
+        "dc:title": "New Subtopic Paper Three",
+        "dc:creator": [{"$": "Ito I."}],
+        "prism:publicationName": "TDEI",
+        "subtypeDescription": "Article",
+        "subtype": "ar",
+        "prism:coverDate": "2023-09-09",
+        "prism:volume": "30",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "300-310",
+        "prism:doi": "10.1000/new3",
+        "prism:issn": "1070-9878",
+        "dc:description": "Abstract about lifetime modeling.",
+        "authkeywords": "lifetime | aging",
+        "citedby-count": "11",
+        "prism:url": "https://example.com/new3"
+      },
+      {
+        "eid": "eid-new-1",
+        "dc:title": "New Subtopic Paper One (dup with first append)",
+        "dc:creator": [{"$": "Garcia G."}],
+        "prism:publicationName": "IEEE TPS",
+        "subtypeDescription": "Article",
+        "prism:coverDate": "2025-01-15",
+        "prism:doi": "10.1000/new1",
+        "dc:description": "Abstract about rep-rate pulse failure evolution."
+      },
+      {
+        "eid": "eid-new-4",
+        "dc:title": "New Subtopic Paper Four",
+        "dc:creator": [{"$": "Kim J."}],
+        "prism:publicationName": "MRel",
+        "subtypeDescription": "Article",
+        "subtype": "ar",
+        "prism:coverDate": "2022-12-12",
+        "prism:volume": "62",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "400-410",
+        "prism:doi": "10.1000/new4",
+        "prism:issn": "0026-2714",
+        "dc:description": "Abstract about terminal failure.",
+        "authkeywords": "failure | electrode",
+        "citedby-count": "2",
+        "prism:url": "https://example.com/new4"
+      }
+    ]
+  }
+}
