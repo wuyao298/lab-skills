@@ -1,0 +1,27 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "2",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "entry": [
+      {
+        "dc:title": "Capacitance loss and ESR evolution of metallized film capacitors under repetitive pulses",
+        "dc:description": "A detailed protocol for measuring capacitance and ESR every 1000 shots is provided. The ESR doubles when capacitance drops 2%.",
+        "prism:coverDate": "2024-05-01",
+        "prism:publicationName": "IEEE Transactions on Dielectrics and Electrical Insulation",
+        "prism:doi": "10.1109/example.2024.0001",
+        "eid": "2-s2.0-85000000001",
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85000000001"
+      },
+      {
+        "dc:title": "A review of film capacitor ageing",
+        "dc:description": "This review summarises ageing mechanisms but does not provide reproducible experimental recipes.",
+        "prism:coverDate": "2023-01-15",
+        "prism:publicationName": "Journal of Physics D: Applied Physics",
+        "prism:doi": "10.1088/example.2023.0002",
+        "eid": "2-s2.0-85000000002",
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85000000002"
+      }
+    ]
+  }
+}

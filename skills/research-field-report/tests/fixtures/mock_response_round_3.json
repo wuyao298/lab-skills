@@ -1,0 +1,309 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "612",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "20",
+    "entry": [
+      {
+        "eid": "r3e01",
+        "dc:title": "Multi-Agent LLM Systems: A Comprehensive Survey",
+        "dc:creator": [
+          {
+            "$": "Adams J."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent LLM Systems: A Comprehensive Survey."
+      },
+      {
+        "eid": "r3e02",
+        "dc:title": "Coordination in Large Language Model Agent Teams",
+        "dc:creator": [
+          {
+            "$": "Brown K."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Coordination in Large Language Model Agent Teams."
+      },
+      {
+        "eid": "r3e03",
+        "dc:title": "Multi-Agent Reinforcement Learning with Language Models",
+        "dc:creator": [
+          {
+            "$": "Chen W."
+          }
+        ],
+        "prism:coverDate": "2024-09-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Reinforcement Learning with Language Models."
+      },
+      {
+        "eid": "r3e04",
+        "dc:title": "Tool-Use Frameworks for Multi-Agent LLM Systems",
+        "dc:creator": [
+          {
+            "$": "Davis L."
+          }
+        ],
+        "prism:coverDate": "2024-01-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Tool-Use Frameworks for Multi-Agent LLM Systems."
+      },
+      {
+        "eid": "r3e05",
+        "dc:title": "Communication Protocols in LLM-Based Multi-Agent Systems",
+        "dc:creator": [
+          {
+            "$": "Evans M."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Communication Protocols in LLM-Based Multi-Agent Systems."
+      },
+      {
+        "eid": "r3e06",
+        "dc:title": "Reasoning Architectures for LLM Multi-Agent Systems",
+        "dc:creator": [
+          {
+            "$": "Foster R."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Reasoning Architectures for LLM Multi-Agent Systems."
+      },
+      {
+        "eid": "r3e07",
+        "dc:title": "Memory and Context in Multi-Agent LLM Frameworks",
+        "dc:creator": [
+          {
+            "$": "Garcia S."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Memory and Context in Multi-Agent LLM Frameworks."
+      },
+      {
+        "eid": "r3e08",
+        "dc:title": "Self-Play and Emergent Behavior in LLM Multi-Agent Systems",
+        "dc:creator": [
+          {
+            "$": "Harris T."
+          }
+        ],
+        "prism:coverDate": "2024-03-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Self-Play and Emergent Behavior in LLM Multi-Agent Systems."
+      },
+      {
+        "eid": "r3e09",
+        "dc:title": "Hierarchical Planning for Multi-Agent LLM Systems",
+        "dc:creator": [
+          {
+            "$": "Ivanov P."
+          }
+        ],
+        "prism:coverDate": "2024-08-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Hierarchical Planning for Multi-Agent LLM Systems."
+      },
+      {
+        "eid": "r3e10",
+        "dc:title": "Role-Based Multi-Agent LLM Systems",
+        "dc:creator": [
+          {
+            "$": "Johnson A."
+          }
+        ],
+        "prism:coverDate": "2024-07-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Role-Based Multi-Agent LLM Systems."
+      },
+      {
+        "eid": "r3e11",
+        "dc:title": "Multi-Agent Debate Systems with Language Models",
+        "dc:creator": [
+          {
+            "$": "Kim Y."
+          }
+        ],
+        "prism:coverDate": "2024-01-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Debate Systems with Language Models."
+      },
+      {
+        "eid": "r3e12",
+        "dc:title": "Cooperative Problem Solving in Multi-Agent LLM Systems",
+        "dc:creator": [
+          {
+            "$": "Lopez E."
+          }
+        ],
+        "prism:coverDate": "2024-09-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cooperative Problem Solving in Multi-Agent LLM Systems."
+      },
+      {
+        "eid": "r3e13",
+        "dc:title": "Multi-Agent LLMs for Code Generation and Review",
+        "dc:creator": [
+          {
+            "$": "Müller F."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent LLMs for Code Generation and Review."
+      },
+      {
+        "eid": "r3e14",
+        "dc:title": "Foundation Models: A Survey",
+        "dc:creator": [
+          {
+            "$": "Nakamura H."
+          }
+        ],
+        "prism:coverDate": "2024-07-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Foundation Models: A Survey."
+      },
+      {
+        "eid": "r3e15",
+        "dc:title": "Large Language Models: Capabilities and Limitations",
+        "dc:creator": [
+          {
+            "$": "Olsen I."
+          }
+        ],
+        "prism:coverDate": "2024-09-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Large Language Models: Capabilities and Limitations."
+      },
+      {
+        "eid": "r3e16",
+        "dc:title": "Software Agent Coordination Patterns",
+        "dc:creator": [
+          {
+            "$": "Park J."
+          }
+        ],
+        "prism:coverDate": "2024-08-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Software Agent Coordination Patterns."
+      },
+      {
+        "eid": "r3e17",
+        "dc:title": "Distributed System Coordination: A Survey",
+        "dc:creator": [
+          {
+            "$": "Quinn U."
+          }
+        ],
+        "prism:coverDate": "2024-04-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Distributed System Coordination: A Survey."
+      },
+      {
+        "eid": "r3e18",
+        "dc:title": "Game-Theoretic Approaches to Multi-Agent Systems",
+        "dc:creator": [
+          {
+            "$": "Reed V."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Game-Theoretic Approaches to Multi-Agent Systems."
+      },
+      {
+        "eid": "r3e19",
+        "dc:title": "Cooperative AI Systems Beyond LLMs",
+        "dc:creator": [
+          {
+            "$": "Smith O."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cooperative AI Systems Beyond LLMs."
+      },
+      {
+        "eid": "r3e20",
+        "dc:title": "Workflow Automation with Language Models",
+        "dc:creator": [
+          {
+            "$": "Tanaka A."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Workflow Automation with Language Models."
+      }
+    ]
+  }
+}

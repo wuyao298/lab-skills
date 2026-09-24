@@ -1,0 +1,309 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "823",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "20",
+    "entry": [
+      {
+        "eid": "r1e01",
+        "dc:title": "Multi-Agent LLM Systems for Scientific Discovery",
+        "dc:creator": [
+          {
+            "$": "Adams J."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent LLM Systems for Scientific Discovery."
+      },
+      {
+        "eid": "r1e02",
+        "dc:title": "Coordination Mechanisms in LLM-based Multi-Agent Frameworks",
+        "dc:creator": [
+          {
+            "$": "Brown K."
+          }
+        ],
+        "prism:coverDate": "2024-09-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Coordination Mechanisms in LLM-based Multi-Agent Frameworks."
+      },
+      {
+        "eid": "r1e03",
+        "dc:title": "Multi-Agent Reinforcement Learning with Foundation Models",
+        "dc:creator": [
+          {
+            "$": "Chen W."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Reinforcement Learning with Foundation Models."
+      },
+      {
+        "eid": "r1e04",
+        "dc:title": "Communication Protocols for LLM Agent Swarms",
+        "dc:creator": [
+          {
+            "$": "Davis L."
+          }
+        ],
+        "prism:coverDate": "2024-08-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Communication Protocols for LLM Agent Swarms."
+      },
+      {
+        "eid": "r1e05",
+        "dc:title": "A Survey on Multi-Agent LLM Architectures",
+        "dc:creator": [
+          {
+            "$": "Evans M."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for A Survey on Multi-Agent LLM Architectures."
+      },
+      {
+        "eid": "r1e06",
+        "dc:title": "Tool-Use Coordination in Multi-Agent LLM Systems",
+        "dc:creator": [
+          {
+            "$": "Foster R."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Tool-Use Coordination in Multi-Agent LLM Systems."
+      },
+      {
+        "eid": "r1e07",
+        "dc:title": "Evaluating Multi-Agent Reasoning with LLMs",
+        "dc:creator": [
+          {
+            "$": "Garcia S."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Evaluating Multi-Agent Reasoning with LLMs."
+      },
+      {
+        "eid": "r1e08",
+        "dc:title": "Hierarchical Planning in LLM Multi-Agent Systems",
+        "dc:creator": [
+          {
+            "$": "Harris T."
+          }
+        ],
+        "prism:coverDate": "2024-03-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Hierarchical Planning in LLM Multi-Agent Systems."
+      },
+      {
+        "eid": "r1e09",
+        "dc:title": "Robot Swarm Robotics for Industrial Automation",
+        "dc:creator": [
+          {
+            "$": "Ivanov P."
+          }
+        ],
+        "prism:coverDate": "2024-08-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Robot Swarm Robotics for Industrial Automation."
+      },
+      {
+        "eid": "r1e10",
+        "dc:title": "Multi-Agent Cancer Cell Migration Models",
+        "dc:creator": [
+          {
+            "$": "Johnson A."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Cancer Cell Migration Models."
+      },
+      {
+        "eid": "r1e11",
+        "dc:title": "Cooperative Control of Robotic Manipulators",
+        "dc:creator": [
+          {
+            "$": "Kim Y."
+          }
+        ],
+        "prism:coverDate": "2024-07-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cooperative Control of Robotic Manipulators."
+      },
+      {
+        "eid": "r1e12",
+        "dc:title": "Cell-Cell Communication in Cancer",
+        "dc:creator": [
+          {
+            "$": "Lopez E."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cell-Cell Communication in Cancer."
+      },
+      {
+        "eid": "r1e13",
+        "dc:title": "Antenna Array Beamforming for 6G Networks",
+        "dc:creator": [
+          {
+            "$": "Müller F."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Antenna Array Beamforming for 6G Networks."
+      },
+      {
+        "eid": "r1e14",
+        "dc:title": "Distributed Multi-Robot SLAM",
+        "dc:creator": [
+          {
+            "$": "Nakamura H."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Distributed Multi-Robot SLAM."
+      },
+      {
+        "eid": "r1e15",
+        "dc:title": "Multi-Agent Based Simulation of Pandemic Spread",
+        "dc:creator": [
+          {
+            "$": "Olsen I."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Based Simulation of Pandemic Spread."
+      },
+      {
+        "eid": "r1e16",
+        "dc:title": "Swarm Drones for Search and Rescue",
+        "dc:creator": [
+          {
+            "$": "Park J."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Swarm Drones for Search and Rescue."
+      },
+      {
+        "eid": "r1e17",
+        "dc:title": "Multi-Agent Path Finding in Warehouse Robotics",
+        "dc:creator": [
+          {
+            "$": "Quinn U."
+          }
+        ],
+        "prism:coverDate": "2024-08-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Multi-Agent Path Finding in Warehouse Robotics."
+      },
+      {
+        "eid": "r1e18",
+        "dc:title": "Ant Colony Optimization for Logistics",
+        "dc:creator": [
+          {
+            "$": "Reed V."
+          }
+        ],
+        "prism:coverDate": "2024-02-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Ant Colony Optimization for Logistics."
+      },
+      {
+        "eid": "r1e19",
+        "dc:title": "Cell Signaling Pathways in Tumor Microenvironment",
+        "dc:creator": [
+          {
+            "$": "Smith O."
+          }
+        ],
+        "prism:coverDate": "2024-06-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cell Signaling Pathways in Tumor Microenvironment."
+      },
+      {
+        "eid": "r1e20",
+        "dc:title": "Cooperative Autonomous Vehicles at Intersections",
+        "dc:creator": [
+          {
+            "$": "Tanaka A."
+          }
+        ],
+        "prism:coverDate": "2024-05-15",
+        "prism:publicationName": "Nature Machine Intelligence",
+        "citedby-count": "5",
+        "subtypeDescription": "Article",
+        "authkeywords": "multi-agent; LLM; coordination",
+        "abstract": "Mock abstract for Cooperative Autonomous Vehicles at Intersections."
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "6",
+    "entry": [
+      {
+        "eid": "eid-new-1",
+        "dc:title": "New Subtopic Paper One",
+        "dc:creator": [{"$": "Garcia G."}],
+        "prism:publicationName": "IEEE TPS",
+        "subtypeDescription": "Article",
+        "subtype": "ar",
+        "prism:coverDate": "2025-01-15",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "100-110",
+        "prism:doi": "10.1000/new1",
+        "prism:issn": "0093-3813",
+        "dc:description": "Abstract about rep-rate pulse failure evolution.",
+        "authkeywords": "pulse power | failure",
+        "citedby-count": "3",
+        "prism:url": "https://example.com/new1"
+      },
+      {
+        "eid": "eid-global-2",
+        "dc:title": "Global Paper Two (dup from global db)",
+        "dc:creator": [{"$": "Brown K."}],
+        "prism:publicationName": "Science",
+        "subtypeDescription": "Review",
+        "subtype": "re",
+        "prism:coverDate": "2023-02-01",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "11-20",
+        "prism:doi": "10.1000/two",
+        "prism:issn": "2345-6789",
+        "dc:description": "Abstract of global paper two",
+        "authkeywords": "film",
+        "citedby-count": "10",
+        "prism:url": "https://example.com/2"
+      },
+      {
+        "eid": "eid-new-2",
+        "dc:title": "New Subtopic Paper Two",
+        "dc:creator": [{"$": "Hao H."}],
+        "prism:publicationName": "JPD",
+        "subtypeDescription": "Article",
+        "subtype": "ar",
+        "prism:coverDate": "2024-06-01",
+        "prism:volume": "57",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "200-215",
+        "prism:doi": "10.1000/new2",
+        "prism:issn": "0022-3727",
+        "dc:description": "Abstract about self-healing under high repetition rate.",
+        "authkeywords": "self-healing | BOPP",
+        "citedby-count": "7",
+        "prism:url": "https://example.com/new2"
+      },
+      {
+        "eid": "eid-global-4",
+        "dc:title": "Global Paper Four (dup from global db)",
+        "dc:creator": [{"$": "Diaz E."}],
+        "prism:publicationName": "JPD",
+        "subtypeDescription": "Article",
+        "subtype": "ar",
+        "prism:coverDate": "2021-04-01",
+        "prism:volume": "4",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "31-40",
+        "prism:doi": "10.1000/four",
+        "prism:issn": "4567-8901",
+        "dc:description": "Abstract of global paper four",
+        "authkeywords": "pulse",
+        "citedby-count": "20",
+        "prism:url": "https://example.com/4"
+      },
+      {
+        "dc:title": "Paper without EID",
+        "dc:creator": [{"$": "Noid N."}],
+        "prism:publicationName": "Junk",
+        "subtypeDescription": "Article",
+        "prism:coverDate": "2019-01-01",
+        "dc:description": "This entry has no EID and must be skipped."
+      }
+    ]
+  }
+}
